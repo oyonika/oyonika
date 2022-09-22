@@ -1,6 +1,6 @@
 ### Hi there! It's Oyonika 👋
 
-#####I'm pursuing my Masters in Computer Science at the University of New Brunswick, Fredericton. 
+I'm pursuing my Masters in Computer Science at the University of New Brunswick, Fredericton. 
 
 - 🔭 I’m currently researching on privacy preserving mobile computation
 - 🌱 I’m interested in homomorphic encryption schemes, secure data transmission and Android development
