@@ -2,6 +2,8 @@
 
 I'm pursuing my Masters in Computer Science at the University of New Brunswick, Fredericton. 
 
+<a href='https://github.com/oyonika/resume/blob/main/oyonika_resume_2022.pdf'>Here's</a> my resume.
+
 - 🔭 I’m currently researching on privacy preserving mobile computation
 - 🌱 I’m interested in homomorphic encryption schemes, secure data transmission and Android development
 - 🤓 C/C++, Python, JavaScript, SQL, HTML/CSS
