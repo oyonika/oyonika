@@ -1,10 +1,10 @@
 ### Hi there! It's Oyonika 👋
 
-I'm pursuing my Masters in Computer Science at the University of New Brunswick, Fredericton. 
+I recently completed my Masters in Computer Science at the University of New Brunswick, Fredericton. 
 
 Here's my <a href='https://github.com/oyonika/resume/blob/main/OyonikaSamazder,SoftwareEngineer.pdf'>resume</a>.
 
-- 🔭 I’m currently researching on privacy preserving mobile computation
+- 🔭 My research focus is on privacy preserving cloud-IoT computation
 -  🌱 I’m interested in homomorphic encryption schemes, secure data transmission and Android development
 - 🤓 C/C++, Python, JavaScript, SQL, HTML/CSS
 - 📫 Email: <a href='mailto:oyonika@hotmail.com'>oyonika@hotmail.com</a>
