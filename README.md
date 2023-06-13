@@ -2,7 +2,7 @@
 
 I recently completed my Masters in Computer Science at the University of New Brunswick, Fredericton. 
 
-Here's my <a href='https://github.com/oyonika/resume/blob/main/OyonikaSamazder,SoftwareEngineer.pdf'>resume</a>.
+Here's my <a href='https://github.com/oyonika/resume/blob/main/OyonikaSamazderSDE.pdf'>resume</a>.
 
 - 🔭 My research focus is on privacy preserving cloud-IoT computation
 -  🌱 I’m interested in homomorphic encryption schemes, secure data transmission and Android development
